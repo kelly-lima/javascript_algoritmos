@@ -27,3 +27,14 @@ alert(`Números pares informados:${valoresPares}`)
 alert(`Quantidades de numeros ímpares:${contaImpar}`)
 alert(`Números Ímpares informados:${valoresImpar}`)
 
+//codigo do professor
+
+ //só para lista for (let numero of valores){
+ //   if(numero % 2 == 0){
+       // parseFloat.push(numero)
+ //   } else {
+ //       impare.push(numero)
+  //  }
+//}
+
+//alert(`Nós temos  ${pares.length} valores pares: ${pares.join(',')}`)
